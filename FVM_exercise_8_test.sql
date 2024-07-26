@@ -1,0 +1,1 @@
+SELECT * FROM TABLE(PCK_FVM_TEST.get_locs)
